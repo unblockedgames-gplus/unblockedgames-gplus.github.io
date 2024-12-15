@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unblockedgames-gplus.github.io/sitemap.xml
